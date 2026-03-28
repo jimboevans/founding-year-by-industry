@@ -1,0 +1,61 @@
+ticker,name,sector,industry_key,industry_name,market_cap,founding_year
+NVDA,NVIDIA Corporation,technology,semiconductors,Semiconductors,4071573703842.163,1993.0
+AVGO,Broadcom Inc.,technology,semiconductors,Semiconductors,1425606171157.1936,1961.0
+MU,"Micron Technology, Inc.",technology,semiconductors,Semiconductors,402849159074.8485,1978.0
+LLY,Eli Lilly and Company,healthcare,drug-manufacturers-general,Drug Manufacturers - General,786041264407.2625,1876.0
+JNJ,Johnson & Johnson,healthcare,drug-manufacturers-general,Drug Manufacturers - General,579460191806.7721,1886.0
+ABBV,AbbVie Inc.,healthcare,drug-manufacturers-general,Drug Manufacturers - General,370378830948.1312,2012.0
+VRTX,Vertex Pharmaceuticals Incorporated,healthcare,biotechnology,Biotechnology,110014588523.90198,1989.0
+REGN,"Regeneron Pharmaceuticals, Inc.",healthcare,biotechnology,Biotechnology,77990560407.20496,1988.0
+ALNY,"Alnylam Pharmaceuticals, Inc.",healthcare,biotechnology,Biotechnology,42089279037.118164,2002.0
+ABT,Abbott Laboratories,healthcare,medical-devices,Medical Devices,180701639707.03888,1888.0
+SYK,Stryker Corporation,healthcare,medical-devices,Medical Devices,125404364737.34015,1941.0
+MDT,Medtronic plc,healthcare,medical-devices,Medical Devices,111877734979.3388,1949.0
+TMO,Thermo Fisher Scientific Inc.,healthcare,diagnostics-research,Diagnostics & Research,175845776298.17627,1956.0
+DHR,Danaher Corporation,healthcare,diagnostics-research,Diagnostics & Research,128461601560.49812,1969.0
+IDXX,"IDEXX Laboratories, Inc.",healthcare,diagnostics-research,Diagnostics & Research,44582595708.768616,1983.0
+UNH,UnitedHealth Group Incorporated,healthcare,healthcare-plans,Healthcare Plans,235106185845.7554,2011.0
+CVS,CVS Health Corporation,healthcare,healthcare-plans,Healthcare Plans,89156553624.52803,1963.0
+CI,The Cigna Group,healthcare,healthcare-plans,Healthcare Plans,69976276738.75076,1982.0
+ISRG,"Intuitive Surgical, Inc.",healthcare,medical-instruments-supplies,Medical Instruments & Supplies,160771114081.39026,1995.0
+BDX,"Becton, Dickinson and Company",healthcare,medical-instruments-supplies,Medical Instruments & Supplies,55978217001.05347,1897.0
+MDLN,Medline Inc.,healthcare,medical-instruments-supplies,Medical Instruments & Supplies,33569742501.63034,1966.0
+MCK,McKesson Corporation,healthcare,medical-distribution,Medical Distribution,106166664809.47943,1833.0
+COR,"Cencora, Inc.",healthcare,medical-distribution,Medical Distribution,60781113965.542114,2001.0
+CAH,"Cardinal Health, Inc.",healthcare,medical-distribution,Medical Distribution,48611583016.156494,1971.0
+HCA,"HCA Healthcare, Inc.",healthcare,medical-care-facilities,Medical Care Facilities,105516136434.88159,1968.0
+THC,Tenet Healthcare Corporation,healthcare,medical-care-facilities,Medical Care Facilities,16861616153.640747,1969.0
+ENSG,"The Ensign Group, Inc.",healthcare,medical-care-facilities,Medical Care Facilities,11660910647.615356,1987.0
+ZTS,Zoetis Inc.,healthcare,drug-manufacturers-specialty-generic,Drug Manufacturers - Specialty & Generic,49952575247.80552,1952.0
+UTHR,United Therapeutics Corporation,healthcare,drug-manufacturers-specialty-generic,Drug Manufacturers - Specialty & Generic,22914429820.388306,1996.0
+VTRS,Viatris Inc.,healthcare,drug-manufacturers-specialty-generic,Drug Manufacturers - Specialty & Generic,15030597049.28267,2020.0
+VEEV,Veeva Systems Inc.,healthcare,health-information-services,Health Information Services,28370663925.055664,2007.0
+BTSG,"BrightSpring Health Services, Inc.",healthcare,health-information-services,Health Information Services,8130931098.866959,1971.0
+TEM,"Tempus AI, Inc.",healthcare,health-information-services,Health Information Services,7619334476.849098,2015.0
+JPM,JPMorgan Chase & Co.,financial-services,banks-diversified,Banks - Diversified,762828627068.1725,2000.0
+BAC,Bank of America Corporation,financial-services,banks-diversified,Banks - Diversified,337088770285.49835,1998.0
+C,Citigroup Inc.,financial-services,banks-diversified,Banks - Diversified,187841870381.77185,1998.0
+AMZN,"Amazon.com, Inc.",consumer-cyclical,internet-retail,Internet Retail,2139899086913.3457,1994.0
+MELI,"MercadoLibre, Inc.",consumer-cyclical,internet-retail,Internet Retail,81091157542.81934,1999.0
+DASH,"DoorDash, Inc.",consumer-cyclical,internet-retail,Internet Retail,63686905854.72803,2013.0
+GE,GE Aerospace,industrials,aerospace-defense,Aerospace & Defense,298311919594.6807,1917.0
+RTX,RTX Corporation,industrials,aerospace-defense,Aerospace & Defense,255344778312.89215,2020.0
+BA,The Boeing Company,industrials,aerospace-defense,Aerospace & Defense,149719028910.2884,1916.0
+GOOG,Alphabet Inc.,communication-services,internet-content-information,Internet Content & Information,3311674838134.7656,2015.0
+META,"Meta Platforms, Inc.",communication-services,internet-content-information,Internet Content & Information,1329837824426.0098,2004.0
+SPOT,Spotify Technology S.A.,communication-services,internet-content-information,Internet Content & Information,97275290265.09094,2006.0
+WMT,Walmart Inc.,consumer-defensive,discount-stores,Discount Stores,979728538481.9216,1962.0
+COST,Costco Wholesale Corporation,consumer-defensive,discount-stores,Discount Stores,436705352204.4667,1983.0
+TGT,Target Corporation,consumer-defensive,discount-stores,Discount Stores,54270212127.3533,1902.0
+XOM,Exxon Mobil Corporation,energy,oil-gas-integrated,Oil & Gas Integrated,712474905717.1853,1999.0
+CVX,Chevron Corporation,energy,oil-gas-integrated,Oil & Gas Integrated,422163499803.4641,1936.0
+NFG,National Fuel Gas Company,energy,oil-gas-integrated,Oil & Gas Integrated,9055067934.669289,1902.0
+EQIX,"Equinix, Inc.",real-estate,reit-specialty,REIT - Specialty,94619495664.0,1998.0
+AMT,American Tower Corporation,real-estate,reit-specialty,REIT - Specialty,79360217531.09816,1995.0
+DLR,"Digital Realty Trust, Inc.",real-estate,reit-specialty,REIT - Specialty,61362694925.96893,2004.0
+LIN,Linde plc,basic-materials,specialty-chemicals,Specialty Chemicals,227582135632.05322,1879.0
+SHW,The Sherwin-Williams Company,basic-materials,specialty-chemicals,Specialty Chemicals,78140727374.32227,1866.0
+ECL,Ecolab Inc.,basic-materials,specialty-chemicals,Specialty Chemicals,73817098863.1377,1923.0
+NEE,"NextEra Energy, Inc.",utilities,utilities-regulated-electric,Utilities - Regulated Electric,190433910688.80222,1984.0
+SO,The Southern Company,utilities,utilities-regulated-electric,Utilities - Regulated Electric,106957841271.16112,1945.0
+DUK,Duke Energy Corporation,utilities,utilities-regulated-electric,Utilities - Regulated Electric,101160389468.15186,1904.0
